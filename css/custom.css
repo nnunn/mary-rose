@@ -190,9 +190,9 @@ section#three-fade.on{
   background-color:#baa6a4; 
   position: absolute;
   -webkit-border-radius: 50px;
-  height: 40px;
-  width: 40px;
-  -webkit-animation: pulsate 2s linear;
+  height: 35px;
+  width: 35px;
+  -webkit-animation: pulsate 2.5s linear;
   -webkit-animation-iteration-count: infinite; 
     filter: blur(2px);
     opacity: 1;
@@ -202,11 +202,11 @@ section#three-fade.on{
   border-color: #000;
 }
 @-webkit-keyframes pulsate {
-  50% {-webkit-transform: scale(0.5, 0.5); filter: blur(0);}
+  50% {-webkit-transform: scale(0.7, 0.7); filter: blur(0);}
   100% {-webkit-transform: scale(1, 1);filter: blur(2px);}
 }
 #dot2{
-  left:710px;
+  left:700px;
   top:420px;
 }
 #dot3{  
@@ -214,12 +214,20 @@ section#three-fade.on{
   top:410px;
 }
 #dot4{
-  left:1020px;
+  left:1060px;
   top:339px;
+}
+#dot4-2{
+  left:1000px;
+  top:345px;
 }
 #dot5{  
   left:870px;
   top:180px;
+}
+#dot5-2{  
+  left:780px;
+  top:300px;
 }
 #dot6{  
   left:895px;
@@ -477,6 +485,22 @@ section#future-three{
 section#future-four{
   background-color: #F3EDF0;
 }
+/*future-two*/
+section#future-two-one{
+  background-image: url(../img/eyes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #efefef;
+}
+section#future-two-two{
+    background-color: #F3EDF0;
+  }
+  section#future-two-three{
+  background-image: url(../img/dark.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #efefef;
+  }
 /*future2*/
 .future2 section{
   padding-top: 300px;
