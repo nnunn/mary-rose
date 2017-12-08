@@ -22,15 +22,6 @@ h1 {
   filter: blur(1px);
   text-shadow: 0 13.36px 8.896px #666,0 -2px 1px #fff;
   transition: all 1s linear; 
-  animation: fadein 2s;
-}
-@keyframes fadein {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity:1;
-  }
 }
 h1:hover {
   color: #645558;
