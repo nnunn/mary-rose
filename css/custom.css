@@ -134,7 +134,7 @@ section#two p.active{
 section#three {
   height:100%;
   margin-bottom:700px;
-  background-image: url(../img/water.jpg);
+  background-image: url(../img/water.png);
   background-size: cover;
  }
 section#three-fade{
