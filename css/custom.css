@@ -520,7 +520,22 @@ section#future2-three{
   background-size: cover;
   color: #333;
 }
+#byebye{
+  margin-top: 25%;
+  animation: fadetwo 8s linear;
+}
 
+@keyframes fadetwo {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
 .final{
   color: #efefef;
   font-family: 'Lobster', cursive; 
