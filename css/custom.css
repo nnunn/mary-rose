@@ -329,6 +329,9 @@ section#four.storm{
   text-decoration: none;
   transition: all 0.2s linear; 
 }
+.nav-back:visted{
+    background-color: #000;
+  }
  .nav-back-end{
   color: #666;
   font-family: 'Lobster', cursive; 
