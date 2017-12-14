@@ -7,7 +7,7 @@ html, body {
   }
 
 body.present{
-  background-image: url(../img/shadow.gif);
+  /*background-image: url(../img/shadow.gif);*/
   background-size: cover; 
   background-repeat: no-repeat;
 }
