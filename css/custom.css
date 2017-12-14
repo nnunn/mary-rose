@@ -397,14 +397,14 @@ section#past-three{
   background-size: cover;
 }
 section#past-four {
-  /*background-image: url(../img/past-two-back.jpg);*/
+  background-image: url(../img/past-two-back.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: bottom;
   background-color: #f5f9f8;
 }
 section#quote-one {
-  /*/*background-image: url(../img/tower2.jpg);*/
+  background-image: url(../img/tower2.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: bottom;
@@ -446,7 +446,7 @@ p.quote{
 
 /*past2*/
 section#past2-one{
-  /*background-image: url(../img/baby2.jpg);*/
+  background-image: url(../img/baby2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
