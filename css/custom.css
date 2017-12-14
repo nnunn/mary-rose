@@ -409,6 +409,7 @@ section#past-five {
   /*background-image: url(../img/love.jpg);*/
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: #f5f9f8;
 }
 section#past-seven {
   /*background-image: url(../img/bus.jpg);*/
