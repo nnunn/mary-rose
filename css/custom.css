@@ -7,7 +7,7 @@ html, body {
   }
 
 body.present{
-  /*background-image: url(../img/shadow.gif);*/
+  background-image: url(../img/shadow.gif);
   background-size: cover; 
   background-repeat: no-repeat;
 }
@@ -355,7 +355,7 @@ section#four {
   transition: all 0.9s linear; 
 }
 section#past-one {
-  /*background-image: url(../img/house.jpg);*/
+  background-image: url(../img/house.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -382,7 +382,7 @@ section#past-six, section#past-nine{
   background-color: #F3EDF0;
 }
 section#past-six{
-  /*background-image: url(../img/womb.jpg);*/
+  background-image: url(../img/womb.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color:#efefef;
@@ -589,4 +589,11 @@ left:35%;
 .end2.show, .end3.show{
   opacity:1;
     transition: all 2s linear;
+}
+.credits{
+  padding-top:200px;
+}
+.credits ul{
+  font-size: 13px;
+  text-align: left;
 }
