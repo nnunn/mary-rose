@@ -65,7 +65,7 @@ section.rain p{
 /* Background colors for each section */
 section#one {
   background-color: #333;
-  background-image: url(../img/lady.png);
+  /*background-image: url(../img/lady.png);*/
   background-size: cover;  
 }
 section#one .title{
@@ -240,9 +240,6 @@ section#four {
   background-repeat: no-repeat;
   background-size: cover;
 }
-section#four.storm{
-  background-image: url(../img/storm.gif);
-}
 .arrow-container{
   position:fixed;
   bottom:110px;
@@ -358,7 +355,7 @@ section#four.storm{
   transition: all 0.9s linear; 
 }
 section#past-one {
-  background-image: url(../img/house.jpg);
+  /*background-image: url(../img/house.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -376,7 +373,7 @@ section#past-eight{
   color:#efefef;
 }
 section#past-nine{
-  background-image: url(../img/treelined.jpg);
+  /*background-image: url(../img/treelined.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -384,7 +381,7 @@ section#past-six, section#past-nine{
   background-color: #F3EDF0;
 }
 section#past-six{
-  background-image: url(../img/womb.jpg);
+  /*background-image: url(../img/womb.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   color:#efefef;
@@ -395,26 +392,26 @@ section#past-three{
   background-size: cover;
 }
 section#past-four {
-  background-image: url(../img/past-two-back.jpg);
+  /*background-image: url(../img/past-two-back.jpg);*/
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: bottom;
   background-color: #f5f9f8;
 }
 section#quote-one {
-  background-image: url(../img/tower2.jpg);
+  /*/*background-image: url(../img/tower2.jpg);*/
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: bottom;
   background-color: #2a2a2a;
 }
 section#past-five {
-  background-image: url(../img/love.jpg);
+  /*background-image: url(../img/love.jpg);*/
   background-size: cover;
   background-repeat: no-repeat;
 }
 section#past-seven {
-  background-image: url(../img/bus.jpg);
+  /*background-image: url(../img/bus.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -422,7 +419,7 @@ section#past-seven {
 section#past-ten, section#quote-two{
   background-color: #333;
   color: #fff;
-  background-image: url(../img/old-lady.jpg);
+  /*background-image: url(../img/old-lady.jpg);*/
   background-repeat: no-repeat;
   background-position: bottom right;
 }
@@ -442,7 +439,7 @@ p.quote{
 
 /*past2*/
 section#past2-one{
-  background-image: url(../img/baby2.jpg);
+  /*background-image: url(../img/baby2.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -452,7 +449,7 @@ section#past2-two{
   color: #efefef;
 }
 section#past2-three{
-  background-image: url(../img/anger.jpg);
+  /*background-image: url(../img/anger.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -463,7 +460,7 @@ section#past2-four{
   color: #efefef;
 }
 section#past2-five{
-  background-image: url(../img/end.jpg);
+  /*background-image: url(../img/end.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -472,7 +469,7 @@ section#past2-five{
 
 /*future*/
 section#future-one{
-  background-image: url(../img/jimmy.jpg);
+  /*background-image: url(../img/jimmy.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -480,7 +477,7 @@ section#future-two{
   background-color: #F3EDF0;
 }
 section#future-three{
-  background-image: url(../img/barn.jpg);
+  /*background-image: url(../img/barn.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
@@ -490,7 +487,7 @@ section#future-four{
 }
 /*future-two*/
 section#future-two-one{
-  background-image: url(../img/eyes.jpg);
+  /*background-image: url(../img/eyes.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
@@ -499,7 +496,7 @@ section#future-two-two{
     background-color: #F3EDF0;
   }
   section#future-two-three{
-  background-image: url(../img/dark.jpg);
+  /*background-image: url(../img/dark.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
@@ -509,7 +506,7 @@ section#future-two-two{
   padding-top: 300px;
 }
 section#future2-one{
-  background-image: url(../img/prem.jpg);
+  /*background-image: url(../img/prem.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
 }
