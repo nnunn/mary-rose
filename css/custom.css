@@ -376,6 +376,7 @@ section#past-nine{
   /*background-image: url(../img/treelined.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
+    background-color: #f5f9f8;
 }
 section#past-six, section#past-nine{
   background-color: #F3EDF0;
@@ -417,6 +418,7 @@ section#past-seven {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
+  background-color: #f5f9f8;
 }
 section#past-ten, section#quote-two{
   background-color: #333;
@@ -471,7 +473,7 @@ section#past2-five{
 
 /*future*/
 section#future-one{
-  /*background-image: url(../img/jimmy.jpg);*/
+  background-image: url(../img/jimmy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -483,6 +485,8 @@ section#future-three{
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
+   background-color: #333;
+
 }
 section#future-four{
   background-color: #F3EDF0;
@@ -493,6 +497,7 @@ section#future-two-one{
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
+  background-color: #333;
 }
 section#future-two-two{
     background-color: #F3EDF0;
@@ -502,6 +507,7 @@ section#future-two-two{
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
+  background-color: #333;
   }
 /*future2*/
 .future2 section{
