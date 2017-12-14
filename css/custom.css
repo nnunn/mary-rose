@@ -385,6 +385,7 @@ section#past-six{
   background-repeat: no-repeat;
   background-size: cover;
   color:#efefef;
+  background-color: #333;
 }
 section#past-three{
   background-image: url(../img/abstract1.jpg);
