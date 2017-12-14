@@ -65,7 +65,7 @@ section.rain p{
 /* Background colors for each section */
 section#one {
   background-color: #333;
-  /*background-image: url(../img/lady.png);*/
+  background-image: url(../img/lady.png);
   background-size: cover;  
 }
 section#one .title{
@@ -344,6 +344,9 @@ section#four {
   color:#999;
    background-color: #EBEDEF ;
  }
+ .nav-back#two{
+  padding-bottom: 10px;
+ }
 
 /*past*/
 .panel{
@@ -408,13 +411,13 @@ section#quote-one {
   background-color: #2a2a2a;
 }
 section#past-five {
-  /*background-image: url(../img/love.jpg);*/
+  background-image: url(../img/love.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #f5f9f8;
 }
 section#past-seven {
-  /*background-image: url(../img/bus.jpg);*/
+  background-image: url(../img/bus.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -423,7 +426,7 @@ section#past-seven {
 section#past-ten, section#quote-two{
   background-color: #333;
   color: #fff;
-  /*background-image: url(../img/old-lady.jpg);*/
+  background-image: url(../img/old-lady.jpg);
   background-repeat: no-repeat;
   background-position: bottom right;
 }
@@ -453,7 +456,7 @@ section#past2-two{
   color: #efefef;
 }
 section#past2-three{
-  /*background-image: url(../img/anger.jpg);*/
+  background-image: url(../img/anger.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -473,7 +476,7 @@ section#past2-five{
 
 /*future*/
 section#future-one{
-  background-image: url(../img/jimmy.jpg);
+  background-color: #1F2730;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -481,7 +484,6 @@ section#future-two{
   background-color: #F3EDF0;
 }
 section#future-three{
-  /*background-image: url(../img/barn.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
@@ -493,7 +495,7 @@ section#future-four{
 }
 /*future-two*/
 section#future-two-one{
-  /*background-image: url(../img/eyes.jpg);*/
+  background-image: url(../img/eyes.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
@@ -503,7 +505,7 @@ section#future-two-two{
     background-color: #F3EDF0;
   }
   section#future-two-three{
-  /*background-image: url(../img/dark.jpg);*/
+  background-image: url(../img/dark.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
@@ -591,7 +593,7 @@ left:35%;
     transition: all 2s linear;
 }
 .credits{
-  padding-top:200px;
+  padding-top:10%;
 }
 .credits ul{
   font-size: 13px;
