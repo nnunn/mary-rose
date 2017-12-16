@@ -448,8 +448,8 @@ p.quote{
 section#past2-one{
   background-image: url(../img/baby2.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: bottom;
+  background-size: 70%;
+  background-position: bottom left;
 }
 section#past2-two{
   background-color: #333;
@@ -525,9 +525,7 @@ section#future2-two{
   color: #efefef;
 }
 section#future2-three{
-    background-image: url(../img/wrap.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-color: #FEFEEA;
   color: #333;
 }
 #byebye{
@@ -616,4 +614,24 @@ left:35%;
   background-color: #EBEDEF ;
   color: #999;
   text-decoration: none;
-  }
+}
+section{
+      display: none;
+    }
+#size-warning{
+      display: block;
+    }
+#size-warning p{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10% 20%;
+}
+@media (min-height: 700px) and (min-width: 1000px) {
+    section{
+      display: block;
+    }
+    #size-warning{
+      display: none;
+    }
+}
+   
