@@ -599,3 +599,21 @@ left:35%;
   font-size: 13px;
   text-align: left;
 }
+.credits-link{
+  position: fixed;
+  bottom: 0px;
+  left:0px;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: inline-block;
+  background-color:#D6DBDF;
+  color:#333;
+  padding:7px 10px;
+  border-top-right-radius:10px 
+}
+.credits-link:hover{
+  background-color: #EBEDEF ;
+  color: #999;
+  text-decoration: none;
+  }
