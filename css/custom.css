@@ -446,11 +446,12 @@ p.quote{
 
 /*past2*/
 section#past2-one{
-  background-color: #efefef;
-  color: #333;
+  background-image: url(../img/baby2.jpg);
   background-repeat: no-repeat;
-  background-size: 70%;
+  background-size: 100%;
   background-position: bottom left;
+   color: #efefef;
+   background-color: #000;
 }
 section#past2-two{
   background-color: #333;
