@@ -446,6 +446,7 @@ p.quote{
 
 /*past2*/
 section#past2-one{
+  background-color: #333;
   color: #efefef;
   background-repeat: no-repeat;
   background-size: 70%;
