@@ -202,7 +202,7 @@ section#three-fade.on{
   border-color: #000;
 }
 @-webkit-keyframes pulsate {
-  50% {-webkit-transform: scale(0.7, 0.7); filter: blur(0);}
+  50% {-webkit-transform: scale(0.7, 0.7); filter: blur(1px);}
   100% {-webkit-transform: scale(1, 1);filter: blur(2px);}
 }
 #dot2{
